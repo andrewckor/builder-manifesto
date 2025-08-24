@@ -258,6 +258,6 @@ The Builder role represents an opportunity to define the future of product devel
 
 **Andrew Kordampalos**
 
-Andrew Kordampalos is a product engineer with a experience for building exceptional user experiences. His expertise spans multiple disciplines—from full-stack development to product strategy and go-to-market execution—giving him unique insight into the challenges of modern product development.
+Andrew Kordampalos is a Software Engineer at Zapier. His expertise spans multiple disciplines—from full-stack development to product strategy and go-to-market execution—giving him unique insight into the challenges of modern product development.
 
 Throughout his career, Andrew has observed the increasing need for professionals who can operate effectively across traditional functional boundaries. He has seen firsthand how the most impactful contributors are those who combine technical depth with product thinking, design sensibility, and business acumen.
