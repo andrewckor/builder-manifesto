@@ -79,7 +79,7 @@ By formally defining and investing in the Builder role, the company can:
 
 ## **Where Builders fit in the org chart** 
 
-### **As an Oportunistic Team Founder**
+### **As an Opportunistic Team Founder**
 
 * Builds out a surface area as a solo founder of a team, focused on a specific goal  
 * Clearly defined success for the “team” means surface area will get deprecated/EOL if not successful on defined timeline  
